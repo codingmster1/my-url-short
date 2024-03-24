@@ -75,7 +75,7 @@ body {
     font-family: "Anonymous Pro", monospace;
     font-weight: bold;
     letter-spacing: 7px;
-    color: #333;
+    color: #f3f0f0;
     
   }
 
@@ -89,6 +89,7 @@ body {
     font-weight: bold;
     display: block;
     margin-bottom: 5px;
+    color: #f3f0f0;
   }
   
   input {
